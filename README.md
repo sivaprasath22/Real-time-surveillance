@@ -47,6 +47,9 @@ Computer Vision module for detecting emotion, age and gender of a person in any 
 ## Authors
 ### Sivaprasath M
 <ul>
-<li>Linked In: https://www.linkedin.com/in/navaneethan1400/</li>
+<li>Linked In: https://www.linkedin.com/in/
+siva-prasath-M
+
+</li>
 </ul>
 
